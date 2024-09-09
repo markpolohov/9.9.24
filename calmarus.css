@@ -7,7 +7,7 @@ html, body {
   background-color:white;
 }
 .box {
-    width: 80%;
+    width: 100%;
     position: absolute;
     margin: auto;
   overflow: auto;
