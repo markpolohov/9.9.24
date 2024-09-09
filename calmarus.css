@@ -126,6 +126,10 @@ color: #00008B;
  margin: 0 auto;
  text-align: justify;
 }
+#flat .block-gray {
+ background: #f2f2f2;
+ padding: 6px;
+}
 #flat .block2 {
  background: white;
  padding: 6px;
@@ -144,6 +148,10 @@ color: #00008B;
  width: 820px;
  margin: 0 auto;
  text-align: justify;
+}
+#flat .block-gray {
+ background: #f2f2f2;
+ padding: 6px;
 }
 
 #flat .section-overlay-mask {
