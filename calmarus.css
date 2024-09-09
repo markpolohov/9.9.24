@@ -122,7 +122,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("адрес фото в репозитории");
+ background-image: url("https://raw.githubusercontent.com/markpolohov/9.9.24/main/interesnie-fakti-o-kalmarah.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
