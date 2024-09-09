@@ -86,7 +86,7 @@ html, body {
  padding-right: 8px;
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
-                         color: #4682B4;}
+                         fontcolor: #4682B4;}
 .first-character RoyalBlue {font-weight: 400;
  float: left;
  font-size: 84px;
@@ -95,7 +95,7 @@ html, body {
  padding-right: 8px;
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
-color: #00008B;}
+fontcolor: #00008B;}
 .first-character MidnightBlue {
   float: left;
  font-size: 84px;
@@ -105,7 +105,7 @@ color: #00008B;}
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
   
-  color: #191970:}
+ fontcolor: #191970:}
 #flat .title {
  background:#008080	;
  padding: 60px;
