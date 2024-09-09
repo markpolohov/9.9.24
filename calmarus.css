@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
 html, body {
   font-family: 'Open Sans', sans-serif;
-  height: 100%;
+  height: 200%;
   margin: 0;
   background-color:#008080;
 }
@@ -13,7 +13,7 @@ html, body {
   overflow: auto;
 }
 #main {
- width: 100%;
+ width: 200%;
  padding: 0;
 }
 .content-asset p {
