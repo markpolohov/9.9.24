@@ -131,13 +131,33 @@ html, body {
  background-position: top center;
 }
 #flat .parallax-two {
+background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
 background-image: url("https://raw.githubusercontent.com/markpolohov/9.9.24/main/2gyu-full.jpg");
 ackground-position: center center;
+  adding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
 }
 
 #flat .parallax-three {
+  padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
 background-image: url("https://raw.githubusercontent.com/markpolohov/9.9.24/main/2gyu-full.jpg");
-ackground-position: center center;
+   background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+background-position: center center;
 }
 #flat .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
