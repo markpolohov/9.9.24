@@ -78,7 +78,7 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 
-.first-character marine { font-weight: 400;
+.marine { font-weight: 400;
  float: left;
  font-size: 84px;
  line-height: 64px;
@@ -87,7 +87,7 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
                          fontcolor: #4682B4;}
-.first-character RoyalBlue {font-weight: 400;
+.RoyalBlue {font-weight: 400;
  float: left;
  font-size: 84px;
  line-height: 64px;
@@ -96,7 +96,7 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 fontcolor: #00008B;}
-.first-character MidnightBlue {
+.MidnightBlue {
   float: left;
  font-size: 84px;
  line-height: 64px;
