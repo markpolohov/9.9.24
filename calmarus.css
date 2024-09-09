@@ -78,9 +78,34 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 
-.first-character marine { color: #4682B4;}
-.first-character RoyalBlue { color: #00008B;}
-.first-character MidnightBlue {color: #191970:}
+.first-character marine { font-weight: 400;
+ float: left;
+ font-size: 84px;
+ line-height: 64px;
+ padding-top: 4px;
+ padding-right: 8px;
+ padding-left: 3px;
+ font-family: 'Source Sans Pro', sans-serif;
+                         color: #4682B4;}
+.first-character RoyalBlue {font-weight: 400;
+ float: left;
+ font-size: 84px;
+ line-height: 64px;
+ padding-top: 4px;
+ padding-right: 8px;
+ padding-left: 3px;
+ font-family: 'Source Sans Pro', sans-serif;
+color: #00008B;}
+.first-character MidnightBlue {
+  float: left;
+ font-size: 84px;
+ line-height: 64px;
+ padding-top: 4px;
+ padding-right: 8px;
+ padding-left: 3px;
+ font-family: 'Source Sans Pro', sans-serif;
+  
+  color: #191970:}
 #flat .title {
  background:#008080	;
  padding: 60px;
@@ -160,7 +185,7 @@ background-image: url("https://raw.githubusercontent.com/markpolohov/9.9.24/main
 background-position: center center;
 }
 #flat .line-break {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ background: linear-gradient(60deg,, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
 }
