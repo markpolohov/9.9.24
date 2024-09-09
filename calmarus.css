@@ -203,12 +203,7 @@ background-position: center center;
  background: linear-gradient(60deg,, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
-}
-#flat .line-break2 {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
- width: 100%;
- margin: 0 auto;
-}
+
 
 #flat .line-break2 {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
